@@ -1,4 +1,4 @@
-# ONYX-12 Repository Group
+# Project Repository Group
 
 This is the quick index for the ONYX-12 bootstrap repositories.
 
